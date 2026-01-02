@@ -1,5 +1,3 @@
-# MidresDev
-🎯 Repositório Central de Apresentação Profissional | Portfólio Full Stack &amp; Cybersecurity. Explore minhas tecnologias, certificações e soluções desenvolvidas.
 # Olá, eu sou a Mirian Souza (Midres) 👋
 
 <p align="center">
@@ -12,9 +10,9 @@
 
 ### 👤 Sobre Mim
 
-Meu nome profissional é **Midres**. Sou uma **Desenvolvedora Full Stack** com especialização técnica em **Segurança Cibernética**, focada em construir aplicações robustas, escaláveis e resilientes. 
+O meu nome profissional é **Midres**. Sou uma **Desenvolvedora Full Stack** com especialização técnica em **Segurança Cibernética**, focada na construção de aplicações robustas, escaláveis e resilientes. 
 
-Minha base tecnológica é consolidada por certificações de elite, incluindo o **CS50 da Harvard University** e o **Ethical Hacking Essentials (EHE) da EC-Council**. Desenvolvo soluções utilizando o ecossistema JavaScript e Python, sempre aplicando o princípio de *Security by Design*.
+A minha base tecnológica é consolidada por certificações de elite, incluindo o **CS50 da Harvard University** e o **Ethical Hacking Essentials (EHE) da EC-Council**. Desenvolvo soluções utilizando o ecossistema JavaScript e Python, sempre aplicando o princípio de *Security by Design*.
 
 - 🚀 **Foco atual:** Aplicações Full Stack de alta performance e Integração de IA.
 - 🛡️ **Expertise:** Proteção de dados, criptografia e análise de vulnerabilidades.
@@ -44,7 +42,7 @@ Interface dinâmica em **React.js** com consumo de API em tempo real, gestão de
 Desenvolvimento de interface focada em UX e SEO, utilizando **Bootstrap** para garantir performance e responsividade.
 
 #### 🎮 [Lógica e Algoritmos: Floresta Mágica](https://github.com/Midres-souza/aventura-na-floresta-magica)
-Projeto focado em estruturas de controle e lógica de programação pura, demonstrando base sólida em algoritmos.
+Projeto focado em estruturas de controlo e lógica de programação pura, demonstrando base sólida em algoritmos.
 
 ---
 
@@ -61,7 +59,7 @@ Projeto focado em estruturas de controle e lógica de programação pura, demons
 
 <p align="left">
 <a href="https://www.linkedin.com/in/midresouza" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Midres" /></a>
-<a href="https://wa.me/5571996012843" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Midres" /></a>
+<a href="https://wa.me/5571996271348" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Midres" /></a>
 <a href="mailto:silvamidres@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Midres" /></a>
 </p>
 
