@@ -10,7 +10,7 @@
 
 ### 👤 Sobre Mim
 
-Meu nome profissional é **Midres**. [cite_start]Sou uma **Desenvolvedora Full Stack** com especialização técnica em **Segurança Cibernética**, focada em construir aplicações robustas, escaláveis e resilientes[cite: 1].
+Meu nome profissional é **Midres**. (Meu nome completo é Mirian Andressa da Silva Souza ) Sou uma **Desenvolvedora Full Stack** com especialização técnica em **Segurança Cibernética**, focada em construir aplicações robustas, escaláveis e resilientes[cite: 1].
 
 [cite_start]A minha base tecnológica é consolidada por certificações de elite, incluindo o **CS50 da Harvard University** e o **Ethical Hacking Essentials (EHE) da EC-Council**[cite: 1]. [cite_start]Desenvolvo soluções utilizando o ecossistema JavaScript e Python, sempre aplicando o princípio de *Security by Design*[cite: 1].
 
