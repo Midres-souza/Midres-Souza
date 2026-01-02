@@ -10,17 +10,17 @@
 
 ### 👤 Sobre Mim
 
-Meu nome profissional é **Midres**. (Meu nome completo é Mirian Andressa da Silva Souza ) Sou uma **Desenvolvedora Full Stack** com especialização técnica em **Segurança Cibernética**, focada em construir aplicações robustas, escaláveis e resilientes[cite: 1].
+Meu nome profissional é **Midres**. (Nome completo: Mirian Andressa da Silva Souza). Sou uma **Desenvolvedora Full Stack** com especialização técnica em **Segurança Cibernética**, focada em construir aplicações robustas, escaláveis e resilientes.
 
-[cite_start]A minha base tecnológica é consolidada por certificações de elite, incluindo o **CS50 da Harvard University** e o **Ethical Hacking Essentials (EHE) da EC-Council**[cite: 1]. [cite_start]Desenvolvo soluções utilizando o ecossistema JavaScript e Python, sempre aplicando o princípio de *Security by Design*[cite: 1].
+A minha base tecnológica é consolidada por certificações de elite, incluindo o **CS50 da Harvard University** e o **Ethical Hacking Essentials (EHE) da EC-Council**. Desenvolvo soluções utilizando o ecossistema JavaScript e Python, sempre aplicando o princípio de *Security by Design*.
 
-- [cite_start]🚀 **Foco atual:** Aplicações Full Stack de alta performance e Integração de IA[cite: 1].
-- [cite_start]🛡️ **Expertise:** Proteção de dados, criptografia e análise de vulnerabilidades[cite: 1].
-- [cite_start]💻 **Disponibilidade:** 100% Remoto (Home Office)[cite: 1].
+- 🚀 **Foco atual:** Aplicações Full Stack de alta performance e Integração de IA.
+- 🛡️ **Expertise:** Proteção de dados, criptografia e análise de vulnerabilidades.
+- 💻 **Disponibilidade:** 100% Remoto (Home Office).
 
 ---
 
-### [cite_start]🛠️ Stack Técnica [cite: 1]
+### 🛠️ Stack Técnica
 
 **Desenvolvimento:**
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
@@ -30,19 +30,19 @@ Meu nome profissional é **Midres**. (Meu nome completo é Mirian Andressa da Si
 
 ---
 
-### [cite_start]🏆 Projetos em Destaque [cite: 1]
+### 🏆 Projetos em Destaque
+
+#### 🤖 [AI Chatbot - Next.js 15 & Vercel AI SDK](https://github.com/Midres-souza/ai-chatbot)
+Aplicação de chat de última geração com suporte a múltiplos modelos (OpenAI, Anthropic) e persistência de dados.
 
 #### 🧠 [Plataforma de Saúde Mental com IA](https://github.com/Midres-souza/Mental-Health-Platform)
-[cite_start]Arquitetura Full Stack em **Node.js** com integração de inteligência artificial para suporte emocional e análise de dados[cite: 1].
+Arquitetura Full Stack em **Node.js** com integração de inteligência artificial para suporte emocional e análise de dados.
 
 #### 🎬 [Movie Tracker (TMDB API)](https://github.com/Midres-souza/popular-movies)
-[cite_start]Interface dinâmica em **React.js** com consumo de API em tempo real, gestão de estados globais e interface responsiva[cite: 1].
+Interface dinâmica em **React.js** com consumo de API em tempo real, gestão de estados globais e interface responsiva.
 
 #### 📈 [Landing Page de Conversão](https://github.com/Midres-souza/massagem-site)
-[cite_start]Desenvolvimento de interface focada em UX e SEO, utilizando **Bootstrap** para garantir performance e responsividade[cite: 1].
-
-#### 🎮 [Lógica e Algoritmos: Floresta Mágica](https://github.com/Midres-souza/aventura-na-floresta-magica)
-Projeto focado em estruturas de controlo e lógica de programação pura, demonstrando base sólida em algoritmos.
+Desenvolvimento de interface focada em UX e SEO, utilizando **Bootstrap** para garantir performance e responsividade.
 
 ---
 
