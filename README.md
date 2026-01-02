@@ -1,4 +1,4 @@
-# Olá, eu sou a Midres 👋
+# Olá, eu sou a Mirian Souza (Midres) 👋
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge" alt="Full Stack">
